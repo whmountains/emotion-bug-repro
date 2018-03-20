@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts" {
+    "start": "node index.js"
+  },
   "dependencies": {
     "create-emotion": "^9.0.2",
     "create-emotion-server": "^9.0.2"
